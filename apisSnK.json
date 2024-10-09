@@ -1,9 +1,7 @@
 {
   "title": "Shingeky no Kyojin",
-  "data": [
-    {
-      "characters": "https://snk-characters-api.vercel.app/characters",
-      "titans": "https://snk-titans-api.vercel.app/titans"
-    }
-  ]
+  "data": {
+    "characters": "https://snk-characters-api.vercel.app/characters",
+    "titans": "https://snk-titans-api.vercel.app/titans"
+  }
 }
